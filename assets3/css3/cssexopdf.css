@@ -1,0 +1,16 @@
+*{
+    font-size:1em;
+    margin: 20px;
+    padding:10px;
+}
+
+section{
+
+}
+img{
+    float:right;
+}
+
+table{
+    border:1px solid black;
+}
